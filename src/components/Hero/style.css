@@ -1,0 +1,41 @@
+.hero-left-large-screen{
+    display : flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20%;
+    margin-left: 15%;
+    margin-bottom: 30%;
+}
+.hero-left-small-screen{
+    display : flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+    margin-bottom: 15%;
+    margin-left: 10%;
+    margin-right: 5%;
+}
+ .Heading{
+    font-size: 38px;
+    color : #2B2C34;
+    font-weight: bold;
+ }
+
+ .description{
+    color : darkgray ;
+    font-size: 15px;
+ }
+.hero-right{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.heroImage{
+    margin-top: 10%;
+}
+
+.heroImage img{
+    height:auto;
+    max-width: 100%;
+}
